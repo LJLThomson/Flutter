@@ -38,6 +38,10 @@ dev_dependencies:
   date_format: ^1.0.9
   flutter_cupertino_date_picker: ^1.0.2
   flutter_swiper: ^1.1.6
+  toast: ^0.1.5
+  http: ^0.12.2
+  dio: ^3.0.10
+  loading: ^1.0.2
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
